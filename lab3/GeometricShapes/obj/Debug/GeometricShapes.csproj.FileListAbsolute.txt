@@ -1,0 +1,6 @@
+C:\Users\_sh1nda\source\repos\lab3\GeometricShapes\bin\Debug\GeometricShapes.dll
+C:\Users\_sh1nda\source\repos\lab3\GeometricShapes\bin\Debug\GeometricShapes.pdb
+C:\Users\_sh1nda\source\repos\lab3\GeometricShapes\obj\Debug\GeometricShapes.csproj.AssemblyReference.cache
+C:\Users\_sh1nda\source\repos\lab3\GeometricShapes\obj\Debug\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\_sh1nda\source\repos\lab3\GeometricShapes\obj\Debug\GeometricShapes.dll
+C:\Users\_sh1nda\source\repos\lab3\GeometricShapes\obj\Debug\GeometricShapes.pdb

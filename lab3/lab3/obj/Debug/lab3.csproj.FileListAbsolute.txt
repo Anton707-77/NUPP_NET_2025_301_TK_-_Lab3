@@ -1,0 +1,5 @@
+C:\Users\_sh1nda\source\repos\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+C:\Users\_sh1nda\source\repos\lab3\lab3\obj\Debug\ShapeDemoApp.MainForm.resources
+C:\Users\_sh1nda\source\repos\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\_sh1nda\source\repos\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\_sh1nda\source\repos\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
